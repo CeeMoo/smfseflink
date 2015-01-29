@@ -511,7 +511,6 @@ class SimpleSEF
 
 		call_user_func($subActions[$_REQUEST['sa']]);
 	}
-
 	/**
 	 * Modifies the basic settings of SimpleSEF.
 	 *
