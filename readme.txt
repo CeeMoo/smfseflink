@@ -1,13 +1,3 @@
-[center][b][color=red][size=5]SimpleSEF[/size][/color][/b][hr][/center]
-
-[url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3751784][img]https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif[/img][/url]
-
-This mod creates content filled URLs for your forum.
-
-Examples:[nobbc]
-http://www.yourboard.com/index.php?board=1.0 =>> http://www.yourboard.com/general_discussion/
-http://www.yourboard.com/index.php?topic=1.0 =>> http://www.yourboard.com/general_discussion/welcome_smf_1.0.html
-http://www.yourboard.com/index.php?action=profile =>> http://www.yourboard.com/profile[/nobbc]
 
 Latest Version: 2.0
 
@@ -43,7 +33,7 @@ v 1.1.1
 ! Bug on 404
 
 v 1.1
-+ Added ability for custom extensions for actions (http://www.mattzuba.com/2010/10/custom-action-handling-with-smf-and-simplesef/)
++ Added ability for custom extensions for actions 
 ! 404 capability for actions that don't exist (which could really be files or folders too)
 ! Error when newly created board isn't in cache yet
 
